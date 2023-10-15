@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](./assets/CodePathWeb102Project4GIF.gif)
+![Video Walkthrough](./src/assets/CodePathWeb102Project4GIF.gif)
 
 GIF created with Kap
 
